@@ -17,7 +17,7 @@ setup(
         "cryptography>=3.4.0",
         "Django",
         "djangorestframework>=3.10.0",
-        "requests>=2.24.0",
+        "requests>=2.32.3",
         "PyJWT>=2.8.0",
     ],
 
